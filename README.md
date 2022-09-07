@@ -5,10 +5,9 @@
 <div align="center">
   <a href="https://github.com/carlapratesoli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlapratesoli&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlapratesoli&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+ </div>
+
  
-  
   ##
   
   <div style="display: inline_block"><br>
@@ -28,7 +27,7 @@
 <a href = "mailto:carla94prates@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   
-  ##
+ 
   <div align="right">
  <img align="center" alt= height="80" width="90" src="https://media-exp1.licdn.com/dms/image/C4D03AQFwsCPYb1IVcQ/profile-displayphoto-shrink_800_800/0/1662499103249?e=1668038400&v=beta&t=jF9SavQClnNSxvgK9-vtfoINQ2pHOEJg0aIoYt5eQGI">
   
